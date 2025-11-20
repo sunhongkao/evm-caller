@@ -1,6 +1,6 @@
 {
-    "short_name": "ECC",
-    "name": "Evm Contract Caller",
+    "short_name": "EC",
+    "name": "Evm Caller",
     "icons": [
         {
             "src": "favicon.ico",

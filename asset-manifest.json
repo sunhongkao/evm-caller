@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.4c704b8c.css",
-    "main.js": "./static/js/main.f274229f.js",
+    "main.js": "./static/js/main.5b1c9278.js",
     "index.html": "./index.html",
     "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "./static/media/1feff74faaf0efc6a044.1feff74faaf0efc6a044"
   },
   "entrypoints": [
     "static/css/main.4c704b8c.css",
-    "static/js/main.f274229f.js"
+    "static/js/main.5b1c9278.js"
   ]
 }
